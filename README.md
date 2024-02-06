@@ -4,7 +4,7 @@ Este é um simples jogo de par ou ímpar implementado em Python. O jogo permite 
 
 ## Como Jogar
 
-1. Execute o arquivo `par_ou_impar.py` em um ambiente Python.
+1. Execute o arquivo `meujogoparouimpar.py` em um ambiente Python.
 2. O jogo pedirá para os jogadores escolherem um número e se querem apostar em par ou ímpar.
 3. Após ambos os jogadores fazerem suas escolhas, o programa anunciará o resultado e o vencedor.
 
@@ -16,7 +16,7 @@ Este é um simples jogo de par ou ímpar implementado em Python. O jogo permite 
 
 1. Clone o repositório para sua máquina local.
 2. Navegue até o diretório onde os arquivos estão localizados.
-3. Execute o comando `python par_ou_impar.py` em seu terminal.
+3. Execute o comando `python meujogoparouimpar.py` em seu terminal.
 
 ## Contribuindo
 
